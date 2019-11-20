@@ -1,0 +1,17 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	display: block;
+	background-image: url("images/startscreenday.png");
+	background-color:black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.doordiv{
+	height: 100%;
+	width: 100%;
+	display:block;
+	margin-left: 47.5%;
+	margin-top: 21.5%;
+}
